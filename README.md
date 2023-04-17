@@ -23,7 +23,7 @@
 
 <h2>Usage</h2>
 <ol>
-	<li>Extract the <code>pic.zip</code> file to the project directory.</li> <li>also download the <code>HAM10000.csv</code>file</li><li>Run the Jupyter notebook <code>skincancer.ipynb</code> to train the model and make predictions.</li><li>Follow the instructions in the notebook to train the model on the ResNet dataset and evaluate its performance.</li><li>Use the trained model to make predictions on new images by calling the <code>predict</code> function with the path to the image file.</li>
+	<li>Extract the dataset from<code>https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000</code>this link.</li><li>Extract the set of <code>normal.zip</code>as it is not present in the kaggle dataset</li> <li>also download the <code>HAM10000.csv</code>file</li><li>Run the Jupyter notebook <code>skincancer.ipynb</code> to train the model and make predictions.</li><li>Follow the instructions in the notebook to train the model on the ResNet dataset and evaluate its performance.</li><li>Use the trained model to make predictions on new images by calling the <code>predict</code> function with the path to the image file.</li>
 </ol>
 <h2>Acknowledgements</h2>
 <p>The ResNet dataset was obtained from the <a href="https://www.isic-archive.com/#!/topWithHeader/onlyHeaderTop/gallery">ISIC Archive</a>.</p>
