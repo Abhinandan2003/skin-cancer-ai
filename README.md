@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Skin Cancer Detection Model using FastAI and ResNet</title>
+	
 </head>
 <body>
 	<h1>Skin Cancer Detection Model using FastAI and ResNet</h1>
