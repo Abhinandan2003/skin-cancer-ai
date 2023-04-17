@@ -23,8 +23,7 @@
 
 <h2>Usage</h2>
 <ol>
-	<li>Extract the <code>pic.zip</code> file to the project directory.</li>
-        <li>also download the <code>HAM10000.csv<code>file</li>
+	<li>Extract the <code>pic.zip</code> file to the project directory.</li> <li>also download the <code>HAM10000.csv<code>file</li>
 	<li>Run the Jupyter notebook <code>skincancer.ipynb</code> to train the model and make predictions.</li>
 	<li>Follow the instructions in the notebook to train the model on the ResNet dataset and evaluate its performance.</li>
 	<li>Use the trained model to make predictions on new images by calling the <code>predict</code> function with the path to the image file.</li>
